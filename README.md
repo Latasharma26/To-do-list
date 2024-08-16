@@ -1,4 +1,3 @@
-# LGMVIP-Web-Task-1
 # Todo-List_
 ### Key Features:
  - Create tasks with descriptions
